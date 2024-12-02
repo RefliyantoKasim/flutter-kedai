@@ -1,4 +1,4 @@
-import 'package:fic11_starter_pos/core/extensions/int_ext.dart';
+import 'package:flutter_kedai/core/extensions/int_ext.dart';
 import 'package:flutter/material.dart';
 
 import '../../../core/components/spaces.dart';

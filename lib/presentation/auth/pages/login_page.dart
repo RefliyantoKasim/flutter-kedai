@@ -1,4 +1,4 @@
-import 'package:fic11_starter_pos/core/assets/assets.gen.dart';
+import 'package:flutter_kedai/core/assets/assets.gen.dart';
 import 'package:flutter/material.dart';
 
 import '../../../core/components/buttons.dart';

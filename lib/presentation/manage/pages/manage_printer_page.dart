@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:print_bluetooth_thermal/print_bluetooth_thermal.dart';
 
-import 'package:fic11_starter_pos/core/extensions/build_context_ext.dart';
+import 'package:flutter_kedai/core/extensions/build_context_ext.dart';
 
 import '../../../core/components/spaces.dart';
 import '../../../core/constants/colors.dart';

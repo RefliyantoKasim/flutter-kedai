@@ -1,7 +1,7 @@
-import 'package:fic11_starter_pos/core/extensions/build_context_ext.dart';
-import 'package:fic11_starter_pos/presentation/home/pages/home_page.dart';
-import 'package:fic11_starter_pos/presentation/manage/pages/manage_menu_page.dart';
-import 'package:fic11_starter_pos/presentation/order/pages/orders_page.dart';
+import 'package:flutter_kedai/core/extensions/build_context_ext.dart';
+import 'package:flutter_kedai/presentation/home/pages/home_page.dart';
+import 'package:flutter_kedai/presentation/manage/pages/manage_menu_page.dart';
+import 'package:flutter_kedai/presentation/order/pages/orders_page.dart';
 import 'package:flutter/material.dart';
 
 import '../../../core/assets/assets.gen.dart';

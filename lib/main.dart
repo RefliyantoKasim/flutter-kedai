@@ -1,6 +1,6 @@
-import 'package:fic11_starter_pos/core/constants/colors.dart';
-import 'package:fic11_starter_pos/presentation/auth/pages/login_page.dart';
-import 'package:fic11_starter_pos/presentation/home/pages/dashboard_page.dart';
+import 'package:flutter_kedai/core/constants/colors.dart';
+import 'package:flutter_kedai/presentation/auth/pages/login_page.dart';
+import 'package:flutter_kedai/presentation/home/pages/dashboard_page.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
@@ -14,6 +14,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'Flutter Starter Kedai',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: AppColors.primary),

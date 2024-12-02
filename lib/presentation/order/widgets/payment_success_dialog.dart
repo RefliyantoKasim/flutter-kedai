@@ -1,8 +1,8 @@
-import 'package:fic11_starter_pos/core/extensions/build_context_ext.dart';
-import 'package:fic11_starter_pos/core/extensions/date_time_ext.dart';
-import 'package:fic11_starter_pos/core/extensions/int_ext.dart';
-import 'package:fic11_starter_pos/presentation/home/pages/dashboard_page.dart';
-import 'package:fic11_starter_pos/presentation/manage/models/cwb_print.dart';
+import 'package:flutter_kedai/core/extensions/build_context_ext.dart';
+import 'package:flutter_kedai/core/extensions/date_time_ext.dart';
+import 'package:flutter_kedai/core/extensions/int_ext.dart';
+import 'package:flutter_kedai/presentation/home/pages/dashboard_page.dart';
+import 'package:flutter_kedai/presentation/manage/models/cwb_print.dart';
 import 'package:flutter/material.dart';
 import 'package:print_bluetooth_thermal/print_bluetooth_thermal.dart';
 
